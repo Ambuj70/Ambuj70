@@ -1,4 +1,4 @@
-|[logo](Black Geometric Marketing Expert LinkedIn Banner.png)
+|[logo](https://github.com/Ambuj70/Ambuj70/blob/main/Background%20img.png)
 <h1 align="center">Hi 👋, I'm Ambuj Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
