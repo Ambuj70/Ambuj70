@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/ambuj-kumar-3b756a288](www.linkedin.com/in/ambuj-kumar-3b756a288)
 
-- 📫 How to reach me **ambujr1008@gmail.com**
+- 📫 How to reach me **ambujkumar.cse@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/ambuj-kumar-3b756a288](www.linkedin.com/in/ambuj-kumar-3b756a288)
 
