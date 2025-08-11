@@ -1,4 +1,4 @@
-Background img.png
+|[logo](https://github.com/Ambuj70/Ambuj70/blob/main/Background%20img.png?raw=true)
 <h1 align="center">Hi 👋, I'm Ambuj Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
